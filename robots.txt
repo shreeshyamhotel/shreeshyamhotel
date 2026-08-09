@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shreeshyamhotel.github.io/sitemap.xml
